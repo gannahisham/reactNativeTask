@@ -21,3 +21,9 @@ npm start
 ---
 
 Then scan the QR code using Expo Go on your mobile device.
+
+## Screenshots
+
+| Home Screen                 | Post Details Screen            |
+| --------------------------- | ------------------------------ |
+| ![](./screenshots/home.png) | ![](./screenshots/details.png) |
